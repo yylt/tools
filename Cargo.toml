@@ -1,0 +1,13 @@
+[package]
+name = "tools"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = { version="0.28.1",features = ["default"]}
+may = "0.3.46"
+crossbeam = "0.8.4"
+enigo = "0.2.1"
+image = "0.25.2"
+env_logger = "0.11.5"
+log = "0.4.22"
